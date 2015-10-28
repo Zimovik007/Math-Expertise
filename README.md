@@ -1,1 +1,0 @@
-PolyMath - project for Hackaton
