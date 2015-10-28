@@ -1,2 +1,1 @@
-# Math-Expertise
-hi
+PolyMath - project for Hackaton
